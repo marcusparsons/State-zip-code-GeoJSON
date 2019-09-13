@@ -1,5 +1,7 @@
 # State-zip-code-GeoJSON
 
+**A fork of the excellent data set located at https://github.com/OpenDataDE/State-zip-code-GeoJSON**
+
 Zip code boundaries for each of the 50 states
 
 This is a collection of zip code boundrary files for each of the 50 states, plus DC. Thanks to Github user
